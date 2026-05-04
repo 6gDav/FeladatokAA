@@ -8,5 +8,5 @@ read -p "Adj egy zsoveges filet " filenev
 
 if [[ "$filenev" == *.txt ]]
 then 
-    cat "$filenev" | tr -s '[:space:]' '\n' | sort | uniq
+    cat "$filenev" | tr -s ' ' '\n' | sort | uniq
 fi
