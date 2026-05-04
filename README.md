@@ -7,7 +7,7 @@ https://docs.google.com/document/d/1DqK5edgEavFPMD04XHMDE5ZsJxl7eYxrBaF96IJjHjg/
 
 Töltsd le ezen a linken keresztűl:
 ```
-
+    git clone https://github.com/6gDav/FeladatokAA.git
 ```
 
 ## Hogyan futtasd
