@@ -1,0 +1,11 @@
+total 0
+0 drwx------+  4 c6gdav  staff   128 ápr.   26 17:08 Desktop
+0 drwx------+  4 c6gdav  staff   128 márc.   8 16:20 Documents
+0 drwx------+  4 c6gdav  staff   128 máj.    3 16:17 Downloads
+0 drwxr-xr-x@  5 c6gdav  staff   160 ápr.   30 17:08 go
+0 drwx------@ 98 c6gdav  staff  3136 ápr.    4 14:45 Library
+0 drwx------   5 c6gdav  staff   160 jan.    6 14:36 Movies
+0 drwx------+  6 c6gdav  staff   192 jan.    9 20:00 Music
+0 drwx------+  5 c6gdav  staff   160 ápr.   18 15:42 Pictures
+0 drwxr-xr-x@ 19 c6gdav  staff   608 jan.    6 15:16 powerlevel10k
+0 drwxr-xr-x+  5 c6gdav  staff   160 jan.    6 14:37 Public
