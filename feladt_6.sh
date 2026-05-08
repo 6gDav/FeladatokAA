@@ -14,3 +14,13 @@ else
     echo "Folyamat id ja $pid"
 fi
 
+# pid=$(pgrep "$process_name"): ps + grep megkeresi, vissza adja a process id ját
+# {
+#     hoszabban a pgrep rol:
+#         pgrep ...: kilistizza a PID kat
+#         pgrep -l ...: folyamt neve meg ezek
+#         pgrep -u ...: adott user alatal futatott cuccok
+#         pgrep -c ...: count a talalatok szam
+#         pgrep -x ...: pontos egyezést keres
+# }
+# if [ -z $pid ]: -z az ures cuccot vizsgalja ha igaz akkor ures

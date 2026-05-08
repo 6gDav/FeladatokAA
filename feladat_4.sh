@@ -10,3 +10,7 @@ if [[ "$filenev" == *.txt ]]
 then 
     cat "$filenev" | tr -s ' ' '\n' | sort | uniq
 fi
+
+# if [[ "$filenev" == *.txt ]]: a file kiterjesztését vizsgálja
+# cat "$filenev" | tr -s ' ' '\n' | sort | uniq: tr, translate, -s squeeze-repeats ismétlödo karakterket tomorit, 
+# a második karakter a helyettesítés, sort rendezi, uniq kiszűri az ismétlödo karakterket

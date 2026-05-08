@@ -5,3 +5,8 @@
 #!/bin/bash
 
 ls -ltr
+
+# ls: kilistázza az aktuális mappa tartalmát
+# -l: (long) hosszan
+# -t: (time) ido szerint
+# -r: (reverse) fordítva

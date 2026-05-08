@@ -26,3 +26,7 @@ then
 else 
     echo "Nem letezik"
 fi
+
+# if [ -r "$filenev" ]: -r (read), olvasható (4)
+# if [ -w "$filenev" ]: -w (write) írható (2)
+# if [ -x "$filenev" ]: -x (execute) futtathato (1)  

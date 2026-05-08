@@ -14,3 +14,9 @@ else
     touch $file_name
     echo "$datum" > $file_name 
 fi
+
+# datum=$(date): date: datum
+# if [ -e $file_name ]: -e exist
+# echo "$datum" >> $file_name: >> nem ir felul csak bele ir
+# touch $file_name: touch letrehoz
+# echo "$datum" > $file_name: > deklarál

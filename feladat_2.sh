@@ -16,3 +16,7 @@ do
         echo "Sorok szama a $sorokszama"
     fi
 done
+
+# read -p: p mint promp 
+# if [ -e "$filenev" ]: -e exist
+# sorokszama=$(cat "$filenev" | wc -l): cat kírat, wc word count megszámolja a karaktereket, -l soronként 
